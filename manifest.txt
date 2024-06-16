@@ -1,0 +1,2 @@
+Main-Class: SnakeX2.main
+
